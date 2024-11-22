@@ -1,6 +1,6 @@
-# Tank Game
+# Tank Game (Windows only)
 
-## Current version ([See all versions](versions.md)): Alpha 0.0.1
+## Current version ([See all versions](versions.md)): Alpha 0.0.2
 
 ## How to Compile and Run the Game
 
